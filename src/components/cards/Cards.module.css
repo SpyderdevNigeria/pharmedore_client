@@ -1,0 +1,95 @@
+.ctn{
+  width: 100%;
+  height: auto;
+  min-height: 80vh;
+  background-image: url(../../assets/sec-bg.png);
+  background-size: cover;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+
+.wrp{
+  width: 100%;
+  max-width: 1100px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+}
+
+.card{
+  width: 100%;
+  max-width: 350px;
+  padding: 100px 30px 30px 30px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.05);
+}
+
+.card:hover{
+  background-color: #031C6E;
+  color: #ffffff;
+}
+
+.card h1{
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: #29ABE2;
+  letter-spacing: -1px;
+  margin: 30px 0;
+}
+
+.card:hover h1{
+  color: #ffffff;
+}
+
+.card:hover .icon svg path{
+  fill: #ffffff !important;
+}
+
+.card p{
+  font-size: .8rem;
+  font-weight: 300;
+  margin-bottom: 30px;
+}
+
+.card b{
+  font-size: .8rem;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: inherit;
+  cursor: pointer;
+  transition: all .3s ease-in-out;
+}
+
+.card b:hover{
+  gap: 20px;
+}
+
+
+
+@media screen and (max-width: 600px){
+.ctn{
+  height: auto;
+  padding: 30px 0;
+}
+
+.wrp{
+  padding: 0 20px;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  justify-content: space-around;
+  gap: 30px;
+}
+
+.card{
+  width: 100%;
+}
+
+
+}

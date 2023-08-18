@@ -1,0 +1,47 @@
+.ctn{
+  width: 100%;
+  background-image: url(../../assets/sec-bg.png);
+}
+
+.wrp{
+  width: 100%;
+  max-width: 850px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 100px 0;
+}
+
+.wrp p{
+  font-size: .85rem;
+  width: 100%;
+  margin-bottom: 30px;
+  font-weight: 400;
+  line-height: 1.65;
+}
+
+.wrp div{
+  width: 370px;
+  margin-top: 100px;
+}
+
+.wrp div h1{
+  font-size: 1.7rem;
+  margin-bottom: 20px;
+  color: #031C6E;
+  font-weight: 500;
+}
+
+
+
+@media screen and (max-width: 1000px){
+.wrp{
+  padding: 100px 20px;
+}
+  
+.wrp div{
+  margin-top: 50px;
+}
+}

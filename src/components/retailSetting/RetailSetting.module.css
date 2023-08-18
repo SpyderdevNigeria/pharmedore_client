@@ -1,0 +1,87 @@
+.ctn{
+  width: 100%;
+  min-height: 100vh;
+  padding: 120px 10px;
+}
+
+.wrp{
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.title{
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+  letter-spacing: -0.5px;
+}
+
+.subtitle{
+  font-size: 1rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+  letter-spacing: -0.5px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.security, .account{
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.password, .details{
+  width: 100%;
+  padding: 15px;
+  border: 1px solid #031c6e61;
+  border-radius: 7px;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+.password p{
+  display: flex;
+  flex-direction: column;
+}
+
+.details{
+  flex-direction: column;
+}
+
+.details p{
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.details span{
+  font-weight: 300;
+}
+
+.passwordBtn{
+  width: fit-content;
+  padding: 8px 10px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #031C6E;
+  border: #031C6E 1px solid;
+  border-radius: 10px;
+}
+
+.note{
+  font-size: 0.8rem !important;
+  font-weight: 300 !important;
+  margin-bottom: 10px;
+}
+
+.deleteBtn{
+  width: fit-content;
+  padding: 15px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: rgb(229, 21, 21);
+  border-radius: 5px;
+}

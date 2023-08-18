@@ -1,0 +1,1958 @@
+[
+  {
+      "_id": "64c91aae60e79e920703202f",
+      "drugCompany": "AbbVie",
+      "drugName": "Reblozyl",
+      "genericName": "luspatercept",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c91aae60e79e9207032030"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c91aae60e79e9207032031"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c91aae60e79e9207032032"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c91aae60e79e9207032033"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c91aae60e79e9207032034"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c91aae60e79e9207032035"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c91aae60e79e9207032036"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c91b8960e79e9207032038",
+      "drugCompany": "AbbVie",
+      "drugName": "Ubrelvy",
+      "genericName": "Ubrogepant",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c91b8960e79e9207032039"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c91b8960e79e920703203a"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c91b8960e79e920703203b"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c91b8960e79e920703203c"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c91b8960e79e920703203d"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c91b8960e79e920703203e"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c91b8960e79e920703203f"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c91c5160e79e9207032041",
+      "drugCompany": "AbbVie",
+      "drugName": "Venclexta",
+      "genericName": "Venetoclax",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c91c5160e79e9207032042"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c91c5160e79e9207032043"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c91c5160e79e9207032044"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c91c5160e79e9207032045"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c91c5160e79e9207032046"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c91c5160e79e9207032047"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c91c5160e79e9207032048"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9215360e79e920703204a",
+      "drugCompany": "AbbVie",
+      "drugName": "Imbruvica",
+      "genericName": "Ibrutinib",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9215360e79e920703204b"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9215360e79e920703204c"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9215360e79e920703204d"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9215360e79e920703204e"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9215360e79e920703204f"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9215360e79e9207032050"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9215360e79e9207032051"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+  
+  {
+      "_id": "64c9223760e79e9207032053",
+      "drugCompany": "AstraZeneca",
+      "drugName": "Farxiga",
+      "genericName": "Dapagliflozin",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9223760e79e9207032054"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9223760e79e9207032055"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9223760e79e9207032056"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9223760e79e9207032057"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9223760e79e9207032058"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9223760e79e9207032059"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9223760e79e920703205a"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c923f260e79e920703205c",
+      "drugCompany": "AstraZeneca",
+      "drugName": "Lynparza",
+      "genericName": "Olaparib",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c923f260e79e920703205d"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c923f260e79e920703205e"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c923f260e79e920703205f"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c923f260e79e9207032060"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c923f260e79e9207032061"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c923f260e79e9207032062"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c923f260e79e9207032063"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9249e60e79e9207032065",
+      "drugCompany": "AstraZeneca",
+      "drugName": "Imfinzi",
+      "genericName": "Durvalumab",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9249e60e79e9207032066"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9249e60e79e9207032067"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9249e60e79e9207032068"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9249e60e79e9207032069"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9249e60e79e920703206a"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9249e60e79e920703206b"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9249e60e79e920703206c"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9250360e79e920703206e",
+      "drugCompany": "AstraZeneca",
+      "drugName": "Symbicort",
+      "genericName": "Budesonide Formoterol",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9250360e79e920703206f"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9250360e79e9207032070"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9250360e79e9207032071"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9250360e79e9207032072"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9250360e79e9207032073"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9250360e79e9207032074"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9250360e79e9207032075"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9261460e79e9207032077",
+      "drugCompany": "Bristol-Myers Squibb",
+      "drugName": "Orencia ",
+      "genericName": "Pomalidomide ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9261460e79e9207032078"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9261460e79e9207032079"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9261460e79e920703207a"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9261460e79e920703207b"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9261460e79e920703207c"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9261460e79e920703207d"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9261460e79e920703207e"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9277760e79e9207032080",
+      "drugCompany": "Bristol-Myers Squibb",
+      "drugName": "Pomalyst",
+      "genericName": "Abatacept ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9277760e79e9207032081"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9277760e79e9207032082"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9277760e79e9207032083"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9277760e79e9207032084"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9277760e79e9207032085"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9277760e79e9207032086"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9277760e79e9207032087"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9288d60e79e9207032089",
+      "drugCompany": "Bristol-Myers Squibb",
+      "drugName": "Opdivo",
+      "genericName": "Nivolumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9288d60e79e920703208a"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9288d60e79e920703208b"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9288d60e79e920703208c"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9288d60e79e920703208d"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9288d60e79e920703208e"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9288d60e79e920703208f"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9288d60e79e9207032090"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+  
+  {
+      "_id": "64c9295560e79e9207032092",
+      "drugCompany": "Celgene",
+      "drugName": "Revlimid",
+      "genericName": "Lenalidomide ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9295560e79e9207032093"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9295560e79e9207032094"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9295560e79e9207032095"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9295560e79e9207032096"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9295560e79e9207032097"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9295560e79e9207032098"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9295560e79e9207032099"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c92a4060e79e920703209b",
+      "drugCompany": "JOHNSON & JOHNSON",
+      "drugName": "Darzalex",
+      "genericName": "Daratumumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c92a4060e79e920703209c"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c92a4060e79e920703209d"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c92a4060e79e920703209e"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c92a4060e79e920703209f"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c92a4060e79e92070320a0"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c92a4060e79e92070320a1"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c92a4060e79e92070320a2"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c92aa960e79e92070320a4",
+      "drugCompany": "JOHNSON & JOHNSON",
+      "drugName": "Remicade",
+      "genericName": "Infliximab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c92aa960e79e92070320a5"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c92aa960e79e92070320a6"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c92aa960e79e92070320a7"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c92aa960e79e92070320a8"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c92aa960e79e92070320a9"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c92aa960e79e92070320aa"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c92aa960e79e92070320ab"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c92b5e60e79e92070320ad",
+      "drugCompany": "Merck & Co ",
+      "drugName": "Keytruda",
+      "genericName": "Pembrolizumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c92b5e60e79e92070320ae"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c92b5e60e79e92070320af"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c92b5e60e79e92070320b0"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c92b5e60e79e92070320b1"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c92b5e60e79e92070320b2"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c92b5e60e79e92070320b3"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c92b5e60e79e92070320b4"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c92bca60e79e92070320b6",
+      "drugCompany": "Merck & Co ",
+      "drugName": "Gardasil",
+      "genericName": "Gardasil 9, 9vHPV ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c92bca60e79e92070320b7"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c92bca60e79e92070320b8"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c92bca60e79e92070320b9"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c92bca60e79e92070320ba"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c92bca60e79e92070320bb"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c92bca60e79e92070320bc"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c92bca60e79e92070320bd"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c92f5b60e79e92070320c8",
+      "drugCompany": "NOVARTIS ",
+      "drugName": "Januvia",
+      "genericName": "Sitagliptin ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c92f5b60e79e92070320c9"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c92f5b60e79e92070320ca"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c92f5b60e79e92070320cb"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c92f5b60e79e92070320cc"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c92f5b60e79e92070320cd"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c92f5b60e79e92070320ce"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c92f5b60e79e92070320cf"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c92fef60e79e92070320d1",
+      "drugCompany": "NOVARTIS ",
+      "drugName": "Jakavi",
+      "genericName": "Ruxolitinib ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c92fef60e79e92070320d2"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c92fef60e79e92070320d3"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c92fef60e79e92070320d4"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c92fef60e79e92070320d5"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c92fef60e79e92070320d6"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c92fef60e79e92070320d7"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c92fef60e79e92070320d8"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9307860e79e92070320da",
+      "drugCompany": "NOVARTIS ",
+      "drugName": "Tecentriq",
+      "genericName": "Atezolizumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9307860e79e92070320db"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9307860e79e92070320dc"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9307860e79e92070320dd"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9307860e79e92070320de"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9307860e79e92070320df"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9307860e79e92070320e0"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9307860e79e92070320e1"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9318e60e79e92070320e3",
+      "drugCompany": "NOVARTIS ",
+      "drugName": "Adakveo",
+      "genericName": "Crizanlizumab-tmca ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9318e60e79e92070320e4"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9318e60e79e92070320e5"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9318e60e79e92070320e6"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9318e60e79e92070320e7"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9318e60e79e92070320e8"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9318e60e79e92070320e9"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9318e60e79e92070320ea"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9321760e79e92070320ec",
+      "drugCompany": "NOVARTIS ",
+      "drugName": "Entresto",
+      "genericName": "Sacubitril ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9321760e79e92070320ed"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9321760e79e92070320ee"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9321760e79e92070320ef"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9321760e79e92070320f0"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9321760e79e92070320f1"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9321760e79e92070320f2"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9321760e79e92070320f3"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c932cc60e79e92070320f5",
+      "drugCompany": "PFIZER ",
+      "drugName": "Vyndaqel",
+      "genericName": "Tafamidis ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c932cc60e79e92070320f6"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c932cc60e79e92070320f7"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c932cc60e79e92070320f8"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c932cc60e79e92070320f9"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c932cc60e79e92070320fa"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c932cc60e79e92070320fb"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c932cc60e79e92070320fc"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9333160e79e92070320fe",
+      "drugCompany": "PFIZER ",
+      "drugName": "Ruxience",
+      "genericName": "Rituximab-pvvr ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9333160e79e92070320ff"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9333160e79e9207032100"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9333160e79e9207032101"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9333160e79e9207032102"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9333160e79e9207032103"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9333160e79e9207032104"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9333160e79e9207032105"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9339960e79e9207032107",
+      "drugCompany": "PFIZER ",
+      "drugName": "Ibrance",
+      "genericName": "Palbociclib ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9339960e79e9207032108"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9339960e79e9207032109"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9339960e79e920703210a"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9339960e79e920703210b"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9339960e79e920703210c"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9339960e79e920703210d"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9339960e79e920703210e"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+  {
+      "_id": "64c9340060e79e9207032110",
+      "drugCompany": "PFIZER ",
+      "drugName": "Xtandi",
+      "genericName": "Eenzalutamide ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9340060e79e9207032111"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9340060e79e9207032112"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9340060e79e9207032113"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9340060e79e9207032114"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9340060e79e9207032115"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9340060e79e9207032116"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9340060e79e9207032117"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9348f60e79e9207032119",
+      "drugCompany": "ROCHE ",
+      "drugName": "Perjeta",
+      "genericName": "Pertuzumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9348f60e79e920703211a"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9348f60e79e920703211b"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9348f60e79e920703211c"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9348f60e79e920703211d"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9348f60e79e920703211e"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9348f60e79e920703211f"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9348f60e79e9207032120"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9352d60e79e9207032122",
+      "drugCompany": "ROCHE ",
+      "drugName": "Avastin",
+      "genericName": "Bevacizumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9352d60e79e9207032123"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9352d60e79e9207032124"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9352d60e79e9207032125"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9352d60e79e9207032126"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9352d60e79e9207032127"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9352d60e79e9207032128"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9352d60e79e9207032129"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9359e60e79e920703212b",
+      "drugCompany": "ROCHE ",
+      "drugName": "Tecentriq",
+      "genericName": "Atezolizumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9359e60e79e920703212c"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9359e60e79e920703212d"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9359e60e79e920703212e"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9359e60e79e920703212f"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9359e60e79e9207032130"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9359e60e79e9207032131"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9359e60e79e9207032132"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c935ff60e79e9207032134",
+      "drugCompany": "ROCHE ",
+      "drugName": "Herceptin",
+      "genericName": "Trastuzumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c935ff60e79e9207032135"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c935ff60e79e9207032136"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c935ff60e79e9207032137"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c935ff60e79e9207032138"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c935ff60e79e9207032139"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c935ff60e79e920703213a"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c935ff60e79e920703213b"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9365860e79e920703213d",
+      "drugCompany": "ROCHE ",
+      "drugName": "Rituxima",
+      "genericName": "Rituxan ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9365860e79e920703213e"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9365860e79e920703213f"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9365860e79e9207032140"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9365860e79e9207032141"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9365860e79e9207032142"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9365860e79e9207032143"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9365860e79e9207032144"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c936b160e79e9207032146",
+      "drugCompany": "ROCHE ",
+      "drugName": "Gazvya",
+      "genericName": "Obinutuzumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c936b160e79e9207032147"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c936b160e79e9207032148"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c936b160e79e9207032149"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c936b160e79e920703214a"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c936b160e79e920703214b"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c936b160e79e920703214c"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c936b160e79e920703214d"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c9370e60e79e920703214f",
+      "drugCompany": "ROCHE ",
+      "drugName": "Ocrevus",
+      "genericName": "Ocrelizumab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c9370e60e79e9207032150"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c9370e60e79e9207032151"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c9370e60e79e9207032152"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c9370e60e79e9207032153"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c9370e60e79e9207032154"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c9370e60e79e9207032155"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c9370e60e79e9207032156"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c937ad60e79e9207032158",
+      "drugCompany": "ROCHE ",
+      "drugName": "Venclexta",
+      "genericName": "Venetoclax ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c937ad60e79e9207032159"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c937ad60e79e920703215a"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c937ad60e79e920703215b"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c937ad60e79e920703215c"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c937ad60e79e920703215d"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c937ad60e79e920703215e"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c937ad60e79e920703215f"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c93f4260e79e9207032161",
+      "drugCompany": "ROCHE ",
+      "drugName": "Rituxan",
+      "genericName": "Rituximab ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c93f4260e79e9207032162"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c93f4260e79e9207032163"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c93f4260e79e9207032164"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c93f4260e79e9207032165"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c93f4260e79e9207032166"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c93f4260e79e9207032167"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c93f4260e79e9207032168"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  },
+
+
+  {
+      "_id": "64c93fb960e79e920703216a",
+      "drugCompany": "ROCHE ",
+      "drugName": "Kadcyla",
+      "genericName": "Trastuzumab Emtansine ",
+      "rating": 5,
+      "OTC": true,
+      "forms": [
+          {
+              "form": "capsule",
+              "price": 20,
+              "_id": "64c93fb960e79e920703216b"
+          },
+          {
+              "form": "syrup",
+              "price": 50,
+              "_id": "64c93fb960e79e920703216c"
+          }
+      ],
+      "strengths": [
+          {
+              "strength": "200",
+              "pricePercent": 0.7,
+              "_id": "64c93fb960e79e920703216d"
+          },
+          {
+              "strength": "400",
+              "pricePercent": 1.2,
+              "_id": "64c93fb960e79e920703216e"
+          }
+      ],
+      "quantities": [
+          {
+              "quantity": "30",
+              "pricePercent": 0.7,
+              "_id": "64c93fb960e79e920703216f"
+          },
+          {
+              "quantity": "60",
+              "pricePercent": 1.2,
+              "_id": "64c93fb960e79e9207032170"
+          },
+          {
+              "quantity": "90",
+              "pricePercent": 1.6,
+              "_id": "64c93fb960e79e9207032171"
+          }
+      ],
+      "images": [
+          ""
+      ],
+      "description": "Reblozyl (luspatercept) is a first-in-class erythroid maturation agent (EMA) indicated for the treatment of anemia in adult patients with beta thalassemia who require regular red blood cell (RBC) transfusions and in adult patients with very low- to intermediate-risk myelodysplastic syndromes (MDS)-associated anemia who have ring sideroblasts and require RBC transfusions.",
+      "__v": 0
+  }
+]

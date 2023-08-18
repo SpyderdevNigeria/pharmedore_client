@@ -1,0 +1,48 @@
+.ctn{
+  width: 100%;
+  min-height: 60vh;
+  padding: 120px 10px;
+}
+
+.wrp{
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.title{
+  font-size: 1.3rem;
+  font-weight: 500;
+  margin-bottom: 20px;
+  letter-spacing: -0.5px;
+}
+
+.details{
+  width: 250px;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: #f1f4f8;
+}
+
+.default{
+  width: fit-content;
+  padding: 5px 10px;
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #031C6E;
+  border: #031C6E 1px solid;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.name{
+  font-size: 1.1rem;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.address{
+  font-size: 0.9rem;
+  font-weight: 300;
+  margin-bottom: 10px;
+}

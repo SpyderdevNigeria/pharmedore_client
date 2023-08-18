@@ -1,0 +1,109 @@
+/* CartComponent.module.css */
+.cartContainer {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 10000;
+  display: none;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+}
+
+.wrp{
+  width: 100%;
+  max-width: 320px;
+  height: auto;
+  max-height: 90%;
+  border: 1px solid #f7f7f7;
+  padding: 20px;
+  overflow: auto;
+}
+
+.cartItems {
+  margin-bottom: 10px;
+}
+
+.cartTotal {
+  text-align: right;
+  margin-bottom: 10px;
+}
+
+.cartItem {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.itemImage {
+  width: 20%;
+  height: 40px;
+  object-fit: cover;
+  margin-right: 10px;
+}
+
+.itemDetails {
+  width: 80%;
+  display: flex;
+  flex-wrap: wrap;
+  flex-shrink: 0;
+  gap: 10px;
+  justify-content: space-between;
+  position: relative;
+}
+
+.itemDetails h3{
+  width: 100%;
+  font-size: 1rem;
+  font-weight: 400;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.itemDetails h3 span{
+  border: 1px solid #ccc;
+  padding: 2px 5px;
+  border-radius: 5px;
+  font-size: .7rem;
+}
+
+.itemDetails p{
+  font-size: .8rem;
+  font-weight: 300;
+}
+
+.removeItemButton {
+  color: #f00d0d;
+  cursor: pointer;
+  position: absolute;
+  right: 0;
+  bottom: 5px;
+}
+
+.close {
+  position: absolute;
+  top: 40px;
+  right: 40px;
+  font-size: 1.5rem;
+  color: #000000;
+  cursor: pointer;
+  z-index: 100000;
+}
+
+
+
+@media screen and (max-width: 500px) {
+.close {
+  top: 20px;
+  right: 20px;
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: white;
+}
+}
